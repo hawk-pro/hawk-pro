@@ -2,7 +2,7 @@
 <h3 align="center">Backend Engineer • Clean Architecture • Cloud Automation • Problem Solver</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hawk-pro/" target="_blank">
+  <a href="https://www.linkedin.com/in/averma2003/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:arpitverma5250@gmail.com">
