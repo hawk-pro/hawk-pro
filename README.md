@@ -51,11 +51,18 @@
 
 ### 📂 Featured Projects
 
+
+- 🚀 [**Google Play Store top Apps**](https://github.com/hawk-pro/android_app_browser)
+  - Pub/sub used to fetch the Top apps from playstore realtime and stores in GCP datastore and then render on the dashboard to get the top apps.
+
 - 🔍 [**YOLOv3 Object Detection in PyTorch**](https://github.com/hawk-pro/Yolo_V3_Implementation_Using_Pytorch)
   - Lightweight Darknet + PyTorch integration for real-time detection
 
 - 🚀 [**Path Planning with Reinforcement Learning**](https://github.com/Pinchu2002/Adaptive-Robot-Path-Planning-in-Dynamic-and-Uncertain-Environement-Using-Reinforcement-Learning)
   - Smart robot movement simulation using Q-learning
+  - 
+- 🔍 [**Resource Site**](https://github.com/hawk-pro/Resources_Site)
+  - Web app learning Project to include basic games like Tic-tac-toe Black Jack game etc.
 
 - 📊 [**GCP BigQuery Automation**](#)
   - Infra tool to manage BQ schemas, datasets, and alerts via APIs
