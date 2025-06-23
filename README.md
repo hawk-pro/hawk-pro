@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Verma</h1>
-<h3 align="center">Backend & DevOps Engineer • Clean Architecture • Cloud Automation • Problem Solver</h3>
+<h3 align="center">Backend Engineer • Clean Architecture • Cloud Automation • Problem Solver</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hawk-pro/" target="_blank">
