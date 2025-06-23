@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/hawk-pro/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:arpit.verma@email.com">
+  <a href="mailto:arpitverma5250@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -19,8 +19,8 @@
 - 🧰 Tech: Python • Flask • SQL • GCP • Redis • Docker • Bash • Terraform
 - 🎯 Top 100 in Xiaomi Ode2Code 3.0 (60k+ participants)
 - 📈 4⭐️ on CodeChef | Specialist on Codeforces | Top 12% on Leetcode
-- 📝 Resume: [Link to Resume](#)
-- 📫 Reach me: **arpit.verma@email.com**
+- 📝 Resume: [Link to Resume](https://drive.google.com/file/d/1t-vvkoW4d0xSvH9FbBSY5KeGyvL8fokl/view?usp=sharing)
+- 📫 Reach me: **arpitverma5250@gmail.com**
 
 ---
 
@@ -36,28 +36,21 @@
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-1a73e8?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hawk-pro&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawk-pro&theme=dark&hide_border=true" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawk-pro&layout=compact&theme=dark&hide_border=true" width="48%"/>
-</p>
-
----
 
 ### 🏆 GitHub Trophies
 
@@ -90,9 +83,8 @@
 
 ### 🔗 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/hawk-pro/)
-- 🐦 [Twitter](https://twitter.com/hawkpro_dev)
-- 📧 Email: **arpit.verma@email.com**
+- 🌐 [LinkedIn](https://www.linkedin.com/in/averma2003/)
+- 📧 Email: **arpitverma5250@gmail.com**
 
 ---
 
