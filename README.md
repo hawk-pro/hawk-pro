@@ -60,7 +60,7 @@
 
 - 🚀 [**Path Planning with Reinforcement Learning**](https://github.com/Pinchu2002/Adaptive-Robot-Path-Planning-in-Dynamic-and-Uncertain-Environement-Using-Reinforcement-Learning)
   - Smart robot movement simulation using Q-learning
-  - 
+    
 - 🔍 [**Resource Site**](https://github.com/hawk-pro/Resources_Site)
   - Web app learning Project to include basic games like Tic-tac-toe Black Jack game etc.
 
