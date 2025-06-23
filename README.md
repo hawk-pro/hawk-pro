@@ -26,8 +26,8 @@
 
 ### 🧠 Competitive Programming
 
-[![Codeforces](https://raw.githubusercontent.com/abhayrustgi/abhayrustgi/main/assets/badges/codeforces.svg)](https://codeforces.com/profile/hawk-pro)
-[![CodeChef](https://cp-logo.vercel.app/codechef/hawk-pro?logo=true)](https://www.codechef.com/users/hawk-pro)
+[![Codeforces](https://raw.githubusercontent.com/abhayrustgi/abhayrustgi/main/assets/badges/codeforces.svg)](https://codeforces.com/profile/arpit_amrev)
+[![CodeChef](https://cp-logo.vercel.app/codechef/hawk-pro?logo=true)](https://www.codechef.com/users/hawk_pro)
 [![LeetCode](https://img.shields.io/badge/LeetCode-hawk--pro-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/hawk-pro)
 
 ---
@@ -48,27 +48,16 @@
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hawk-pro&theme=onedark&row=1&column=7"/>
-</p>
-
----
 
 ### 📂 Featured Projects
 
 - 🔍 [**YOLOv3 Object Detection in PyTorch**](https://github.com/hawk-pro/Yolo_V3_Implementation_Using_Pytorch)
   - Lightweight Darknet + PyTorch integration for real-time detection
 
-- 🚀 [**Path Planning with Reinforcement Learning**](https://github.com/hawk-pro/path-planning-rl)
+- 🚀 [**Path Planning with Reinforcement Learning**](https://github.com/Pinchu2002/Adaptive-Robot-Path-Planning-in-Dynamic-and-Uncertain-Environement-Using-Reinforcement-Learning)
   - Smart robot movement simulation using Q-learning
 
-- 📊 [**GCP BigQuery Automation**](https://github.com/hawk-pro/gcp-bq-automation)
+- 📊 [**GCP BigQuery Automation**](#)
   - Infra tool to manage BQ schemas, datasets, and alerts via APIs
 
 ---
@@ -87,8 +76,4 @@
 - 📧 Email: **arpitverma5250@gmail.com**
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hawk-pro&label=Profile%20views&color=0e75b6&style=flat" alt="hawk-pro" />
-</p>
 
