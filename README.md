@@ -15,12 +15,13 @@
 ### 🧑‍💻 About Me
 
 - 🔭 Currently interning at **BlueStacks** – Backend Engineer
+- 🎯 Ranked **5th** in Academia amond 230 Students of entire Batch of IIIT Nagpur.
 - 🧱 Building scalable APIs, optimizing BigQuery, automating GCP infra
 - 🧰 Tech: Python • Flask • SQL • GCP • Redis • Docker • Bash • Terraform
 - 🎯 Top 100 in Xiaomi Ode2Code 3.0 (60k+ participants)
 - 📈 4⭐️ on CodeChef | Specialist on Codeforces | Top 12% on Leetcode
-- 📝 Resume: [Link to Resume](https://drive.google.com/file/d/1t-vvkoW4d0xSvH9FbBSY5KeGyvL8fokl/view?usp=sharing)
-- 📫 Reach me: **arpitverma5250@gmail.com**
+- 📝 My Resume: [Link to Resume](https://drive.google.com/file/d/1t-vvkoW4d0xSvH9FbBSY5KeGyvL8fokl/view?usp=sharing)
+- 📫 How to Reach me? : **arpitverma5250@gmail.com**
 
 ---
 
