@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently interning at **BlueStacks** – Backend/DevOps Engineer
+- 🔭 Currently interning at **BlueStacks** – Backend Engineer
 - 🧱 Building scalable APIs, optimizing BigQuery, automating GCP infra
 - 🧰 Tech: Python • Flask • SQL • GCP • Redis • Docker • Bash • Terraform
 - 🎯 Top 100 in Xiaomi Ode2Code 3.0 (60k+ participants)
